@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           GIPHY API
-          <p>Hello World!</p>
+          <p>Hello World! --API</p>
         </a>
       </header>
     </div>
